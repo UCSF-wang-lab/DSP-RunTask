@@ -1,0 +1,12 @@
+ID = "TESTTESTTEST-20230228_day1_rcs17_highon"
+save_path = "/Users/DSP/Documents/GitHub/DSP-Task"
+n_blocks = 16
+n_key_seq = 2
+block_seq = [1,2,2,1,2,1,1,2,1,2,2,1,2,1,1,2]
+key_sequence = [2,4,5,3,2; 2,3,5,4,2]'
+trials_per_block = 20
+trial_type = "discrete"
+baseline_dur = 90
+warm_up_dur = 15
+break_time_dur = 15
+jitters = "Seeds1and2_mu175_Range085to375_TrialsPerBlock20_BlockOrder1221211212212112_pCutoff04_Exp"
